@@ -1,16 +1,20 @@
-## Hi there 👋
+<img src="https://github.com/user-attachments/assets/bab8ccad-579b-4c48-b6ab-df7aa71b137a" width="1000" height="200">
 
-<!--
-**teachthecat/teachthecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><img src="https://github.com/user-attachments/assets/289fbef7-4dd7-48ae-b6c0-4099ea42ac7f" width="489.5" height="447"></div>
 
-Here are some ideas to get you started:
+<div align="center"><b>T</b>h<b>e</b> N<b>e</b>a<b>p</b>o<b>l</b>i<b>t</b>a<b>n</b> B<b>o</b>w<b>l</b></div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center"><b>it/its</b></div>
+
+<div align="center"><i>w2i, nearly always offtab, if we share interests plspslspsls talk to us about them</i></div>
+
+<div align="center"><b>c + h is always appreciated! (unless it is bassie! his status on stuff is usually dniuid)</b></div>
+
+
+<div align="center"><i>strawpage is my (hosts) social links ^^</i></div>
+
+
+<img src="https://github.com/user-attachments/assets/d8f44c9d-4527-4f95-8ef5-4bbede6a3a52" class="fr-fic fr-dib" width="1000" height="200">
+
+
