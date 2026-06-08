@@ -14,8 +14,7 @@
 
 <div align="center"><i>strawpage is my (hosts) social links ^^</i></div>
 
-<a href="https://muxda.atabook.org/"><b>sign our ata!</b></a>
-
+<div align="center"><a style="color:black" href="https://muxda.atabook.org/"><b>sign our ata!</b></a></div>
 
 <img src="https://github.com/user-attachments/assets/d8f44c9d-4527-4f95-8ef5-4bbede6a3a52" class="fr-fic fr-dib" width="1000" height="200">
 
